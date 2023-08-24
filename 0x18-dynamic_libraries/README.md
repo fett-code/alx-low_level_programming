@@ -1,1 +1,1 @@
-read ;me file
+0x17. C - Dynamic libraries
